@@ -11,3 +11,4 @@ Cool stuff around the internet
 - [Wicked Cushions](https://wickedcushions.com/): best replacement ear cushions for headphones
 - [Rhodes cinnamon rolls](https://rhodesbakenserv.com/product/cinnamon-rolls/): Fantastic frozen cinnamon rolls 😋
 - [YNAB](https://www.youneedabudget.com/): the very best personal finance framework and app
+- [The Skullery](https://theskullery.net/): user-submitted recipes, no stories/blogs, just recipes
