@@ -12,3 +12,4 @@ Cool stuff around the internet
 - [Rhodes cinnamon rolls](https://rhodesbakenserv.com/product/cinnamon-rolls/): Fantastic frozen cinnamon rolls 😋
 - [YNAB](https://www.youneedabudget.com/): the very best personal finance framework and app
 - [The Skullery](https://theskullery.net/): user-submitted recipes, no stories/blogs, just recipes
+- [Hash AI](https://hash.ai/): System modeling (e.g. warehouse logistics, city infection spread) - you just need to code what the individuals within the system do (in JavaScript)
