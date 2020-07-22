@@ -15,3 +15,4 @@ Cool stuff around the internet
 - [Hash AI](https://hash.ai/): System modeling (e.g. warehouse logistics, city infection spread) - you just need to code what the individuals within the system do (in JavaScript)
 - [Lost Type Co-op](https://losttype.com/browse/): some pretty nice fonts here. I particularly enjoy [Dotties](https://latest.losttype.com/introducing/dotties).
 - [Textures](https://riccardoscalco.it/textures): Fill SVGs in D3 with lines, dots, and other textures
+- [Adobe Spectrum](https://spectrum.adobe.com/): Adobe's design system. Regardless of the actual design, it's a fantastic demonstration of how to think through design and present the documentation for it.
