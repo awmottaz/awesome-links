@@ -1,5 +1,5 @@
 # awesome-links
-Cool stuff around the internet
+Cool stuff I've found around the internet
 
 - [Lettuce Meet](https://lettucemeet.com/): simple meeting scheduler
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)
