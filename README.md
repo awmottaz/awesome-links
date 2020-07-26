@@ -17,3 +17,4 @@ Cool stuff I've found around the internet
 - [Textures](https://riccardoscalco.it/textures): Fill SVGs in D3 with lines, dots, and other textures
 - [Adobe Spectrum](https://spectrum.adobe.com/): Adobe's design system. Regardless of the actual design, it's a fantastic demonstration of how to think through design and present the documentation for it.
 - [Blocks](https://bl.ocks.org/-/about): view the result of a GitHub Gist in the browser
+- [Practical Typography](https://practicaltypography.com): a great typography resource for beginners written by Matthew Butterick
