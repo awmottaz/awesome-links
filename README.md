@@ -18,3 +18,4 @@ Cool stuff I've found around the internet
 - [Adobe Spectrum](https://spectrum.adobe.com/): Adobe's design system. Regardless of the actual design, it's a fantastic demonstration of how to think through design and present the documentation for it.
 - [Blocks](https://bl.ocks.org/-/about): view the result of a GitHub Gist in the browser
 - [Practical Typography](https://practicaltypography.com): a great typography resource for beginners written by Matthew Butterick
+- [Rent vs. Buy](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html): excellent tool and demonstration of web visualizations. Use this to decide whether to buy or rent a home.
