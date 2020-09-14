@@ -19,3 +19,4 @@ Cool stuff I've found around the internet
 - [Blocks](https://bl.ocks.org/-/about): view the result of a GitHub Gist in the browser
 - [Practical Typography](https://practicaltypography.com): a great typography resource for beginners written by Matthew Butterick
 - [Rent vs. Buy](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html): excellent tool and demonstration of web visualizations. Use this to decide whether to buy or rent a home.
+- [Uses This](https://usesthis.com/): the hardware and software that a bunch of people use
